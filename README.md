@@ -15,7 +15,7 @@
 | resnet101-512 | 78.43 | 78.02        | **79.25** | 71.98       | 78.19       | **79.18** |
 | resnet101-321 | 75.18 | 74.80        | 75.54     | **——**      | **——**      | **——**    |
 
-- DSSD*: results by use our traning strategy,for more details,please see [here]#TODO 
+- DSSD*: results by use our traning strategy,for more details,please see [here](https://zhuanlan.zhihu.com/p/33036037?group_id=937029800641155072)
 
 
 ## Requirements
@@ -48,7 +48,7 @@ bash scripts/stage1_dssd_train_res_voc.sh
 
 
 ## Demo
-1. Download model, available at [TO UPDATE], and place it in the model folder. 
+1. Download model, available at [here](https://pan.baidu.com/s/1htX4Egc), and place it in the model folder. 
 2. run demo.py
 
 
